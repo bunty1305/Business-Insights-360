@@ -63,34 +63,34 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyN2RhNm
 
 ## Project Dashboard Views:
 
-**Home Page**
+### **Home Page**
 ![Home_page](https://github.com/user-attachments/assets/0dd9698d-4b60-4fd4-9b25-ac21de981209)
 
-**Information tab**
+### **Information tab**
 ![info_tab](https://github.com/user-attachments/assets/719cbe23-b898-495b-80e1-86853bbfd27a)
 
-**Finance View**
+### **Finance View**
 ![finance_view](https://github.com/user-attachments/assets/dcfbe0da-f289-43c6-b61e-5f4c5a1e8b8d)
 
-**Sales View**
+### **Sales View**
 ![sales_view](https://github.com/user-attachments/assets/5bca8e8a-c67a-451b-8181-c0cec720f170)
 
-**Marketing View**
+### **Marketing View**
 ![marketing_view](https://github.com/user-attachments/assets/de2a9226-5623-4429-80d2-b13227f93b9b)
 
-**Supply Chain View**
+### **Supply Chain View**
 ![sc_view](https://github.com/user-attachments/assets/a8897eb6-fd2a-4334-bd58-893dac03916e)
 
-**Executive View**
+### **Executive View**
 ![executive_view](https://github.com/user-attachments/assets/6088758c-6958-4b7f-ae0d-2454af5e740d)
 
-**Filter Panel**
+### **Filter Panel**
 ![filter_panel](https://github.com/user-attachments/assets/83612dda-93c4-4bf7-9ff4-91e8c02106c9)
 
-**Navigation Panel**
+### **Navigation Panel**
 ![nav_panel](https://github.com/user-attachments/assets/c02a9390-3cf9-4296-b4f2-6fb897268890)
 
-**Abbreviation tab**
+### **Abbreviation tab**
 ![abbr_tab](https://github.com/user-attachments/assets/54f6f8f3-f607-4114-ba63-528d5a2a7ab9)
 
 
