@@ -66,6 +66,9 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyN2RhNm
 **Home Page**
 ![Home_page](https://github.com/user-attachments/assets/0dd9698d-4b60-4fd4-9b25-ac21de981209)
 
+**Information tab**
+![info_tab](https://github.com/user-attachments/assets/ab5cc7fa-8543-4586-a61b-dc7437356a04)
+
 **Finance View**
 ![finance_view](https://github.com/user-attachments/assets/dcfbe0da-f289-43c6-b61e-5f4c5a1e8b8d)
 
