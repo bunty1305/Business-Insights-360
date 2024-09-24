@@ -62,31 +62,36 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyN2RhNm
 ![data_model](https://github.com/user-attachments/assets/97af715f-404a-4558-a61a-d1f21187448b)
 
 ## Project Dashboard Views:
-1. **Home Page**
+
+**Home Page**
 ![Home_page](https://github.com/user-attachments/assets/0dd9698d-4b60-4fd4-9b25-ac21de981209)
 
-2. **Finance View**
+**Finance View**
 ![finance_view](https://github.com/user-attachments/assets/dcfbe0da-f289-43c6-b61e-5f4c5a1e8b8d)
 
-3. **Sales View**
+**Sales View**
 ![sales_view](https://github.com/user-attachments/assets/5bca8e8a-c67a-451b-8181-c0cec720f170)
 
-4. **Marketing View**
+**Marketing View**
 ![marketing_view](https://github.com/user-attachments/assets/de2a9226-5623-4429-80d2-b13227f93b9b)
 
-5. **Supply Chain View**
+**Supply Chain View**
 ![sc_view](https://github.com/user-attachments/assets/a8897eb6-fd2a-4334-bd58-893dac03916e)
 
-6. **Executive View**
+**Executive View**
 ![executive_view](https://github.com/user-attachments/assets/6088758c-6958-4b7f-ae0d-2454af5e740d)
 
-7. **Filter Panel**
+**Filter Panel**
 ![filter_panel](https://github.com/user-attachments/assets/83612dda-93c4-4bf7-9ff4-91e8c02106c9)
 
-8. **Navigation Panel**
+**Navigation Panel**
 ![nav_panel](https://github.com/user-attachments/assets/c02a9390-3cf9-4296-b4f2-6fb897268890)
 
-9. **Abbreviation tab**
+**Abbreviation tab**
 ![abbr_tab](https://github.com/user-attachments/assets/54f6f8f3-f607-4114-ba63-528d5a2a7ab9)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/bunty1305/)
+
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/bunty1305/)
+
+## Project Outcome
+The Business Insights 360 dashboard provides a comprehensive view of AtliQ Hardware’s key business metrics across Finance, Sales, Marketing, and Supply Chain. By leveraging data-driven insights, the project helps AtliQ identify areas of improvement, optimize decision-making, and prevent future losses, ultimately enabling them to compete more effectively in the electronics market.
