@@ -72,6 +72,9 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyN2RhNm
 ### **Support tab**
 ![support_tab](https://github.com/user-attachments/assets/e46d9457-932f-4843-a611-3a1ce9758200)
 
+### **Filter Panel / Navigation Panel / Abbreviation tab**
+![filter_nav_abbr](https://github.com/user-attachments/assets/80e581e8-2788-468a-a4a6-26a680a35547)
+
 ### **Finance View**
 ![finance_view](https://github.com/user-attachments/assets/dcfbe0da-f289-43c6-b61e-5f4c5a1e8b8d)
 
@@ -86,15 +89,6 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyN2RhNm
 
 ### **Executive View**
 ![executive_view](https://github.com/user-attachments/assets/6088758c-6958-4b7f-ae0d-2454af5e740d)
-
-### **Filter Panel**
-![filter_panel](https://github.com/user-attachments/assets/83612dda-93c4-4bf7-9ff4-91e8c02106c9)
-
-### **Navigation Panel**
-![nav_panel](https://github.com/user-attachments/assets/c02a9390-3cf9-4296-b4f2-6fb897268890)
-
-### **Abbreviation tab**
-![abbr_tab](https://github.com/user-attachments/assets/54f6f8f3-f607-4114-ba63-528d5a2a7ab9)
 
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/bunty1305/)
