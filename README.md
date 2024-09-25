@@ -76,19 +76,19 @@ Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEyN2RhNm
 ![filter_nav_abbr](https://github.com/user-attachments/assets/80e581e8-2788-468a-a4a6-26a680a35547)
 
 ### **Finance View**
-![finance_view](https://github.com/user-attachments/assets/dcfbe0da-f289-43c6-b61e-5f4c5a1e8b8d)
+![finance_view](https://github.com/user-attachments/assets/d0a74f06-1418-4aa1-880c-a91d45cc9c38)
 
 ### **Sales View**
-![sales_view](https://github.com/user-attachments/assets/5bca8e8a-c67a-451b-8181-c0cec720f170)
+![sales_view](https://github.com/user-attachments/assets/a993974b-9072-4082-9a21-090c288582f0)
 
 ### **Marketing View**
-![marketing_view](https://github.com/user-attachments/assets/de2a9226-5623-4429-80d2-b13227f93b9b)
+![marketing_view](https://github.com/user-attachments/assets/2c223a16-e904-4fbf-b690-4119e028079d)
 
 ### **Supply Chain View**
-![sc_view](https://github.com/user-attachments/assets/a8897eb6-fd2a-4334-bd58-893dac03916e)
+![sc_view](https://github.com/user-attachments/assets/e0f61212-0b35-4c8e-946a-6240c6530772)
 
 ### **Executive View**
-![executive_view](https://github.com/user-attachments/assets/6088758c-6958-4b7f-ae0d-2454af5e740d)
+![executive_view](https://github.com/user-attachments/assets/c7360354-9ff7-4219-97f9-f7b1633a2434)
 
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/bunty1305/)
